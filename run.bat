@@ -1,0 +1,1 @@
+java MCSTORM.jar 51.77.112.234 25565 340 memory 500 -1
